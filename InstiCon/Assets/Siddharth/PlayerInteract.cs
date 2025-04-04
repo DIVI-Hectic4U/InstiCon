@@ -15,6 +15,7 @@ public class PlayerInteract : MonoBehaviour
             {
                if (collider.TryGetComponent(out MascotInteraction mascotInteraction)){
                     mascotInteraction.Interact();
+                    
                 }
             }
         }
