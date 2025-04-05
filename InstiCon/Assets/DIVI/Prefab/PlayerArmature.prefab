@@ -1039,6 +1039,7 @@ GameObject:
   - component: {fileID: 135756642000475821}
   - component: {fileID: 4416926081852918493}
   - component: {fileID: 4409783336156906304}
+  - component: {fileID: -6327592771371589171}
   - component: {fileID: 7395246034791653545}
   - component: {fileID: 1946359017615331325}
   - component: {fileID: -8914969145673099580}
@@ -1355,6 +1356,20 @@ MonoBehaviour:
   SwitchTransformSpaceWhenParented: 0
   Interpolate: 1
   SlerpPosition: 0
+--- !u!114 &-6327592771371589171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4416926081852918481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bb6690edc7ff134083967029eee0bdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  bannerCanvas: {fileID: 0}
 --- !u!114 &7395246034791653545
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1396,7 +1411,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0749250a5f34bbb4796b222d0085e689, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  askSimba: {fileID: 0}
+  ShowTopMostFoldoutHeaderGroup: 1
 --- !u!136 &8215192764571540245
 CapsuleCollider:
   m_ObjectHideFlags: 0
