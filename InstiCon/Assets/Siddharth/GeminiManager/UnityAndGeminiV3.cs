@@ -118,7 +118,7 @@ public class UnityAndGeminiV3: MonoBehaviour
             role = "user",
             parts = new Part[]
             {
-                new Part { text = newMessage }
+                new Part { text = newMessage + " (Respond in under 50 words.)" }
             }
         };
 

@@ -1,12 +1,15 @@
+using System.Linq;
 using UnityEngine;
 
 public class ReadInput : MonoBehaviour
 {
-    public string prompt;
+    private string prompt;
+    public MascotInteraction mascotInteraction;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public GameObject askSimba;
+    private void Start()
     {
-        
+        askSimba = GameObject.Find("AskSimba");
     }
 
     // Update is called once per frame
@@ -19,5 +22,7 @@ public class ReadInput : MonoBehaviour
     {
         prompt = s;
         Debug.Log(prompt);
+        mascotInteraction.Interact(prompt);
+        
     }
 }

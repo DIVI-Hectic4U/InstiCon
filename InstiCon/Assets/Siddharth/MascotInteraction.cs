@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class MascotInteraction : MonoBehaviour
 {
-    public void Interact()
+    
+    public void Interact(string s)
     {
-        Debug.Log("Interact!!!");
+        Debug.Log(s);
     }
 }
