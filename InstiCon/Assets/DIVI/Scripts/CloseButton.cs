@@ -6,7 +6,7 @@ public class CloseButton : MonoBehaviour
 
     void Start()
     {
-        askSimba = GameObject.Find("AskSimba");
+        askSimba = GameManager.Instance.askSimba;
     }
 
     // This method should be public to be called from a UI Button's OnClick()
