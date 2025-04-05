@@ -26,7 +26,7 @@ public class Interacting : NetworkBehaviour {
                         bannerCanvas.SetActive(true);
 
                         // Unlock the cursor
-                        var inputs = FindObjectOfType<StarterAssets.StarterAssetsInputs>();
+                        var inputs = FindFirstObjectByType<StarterAssets.StarterAssetsInputs>();
                         if (inputs != null) {
                             inputs.cursorLocked = false;
                             Cursor.lockState = CursorLockMode.None;

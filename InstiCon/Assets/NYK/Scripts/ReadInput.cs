@@ -20,7 +20,7 @@ public class ReadInput : NetworkBehaviour {
             bannerCanvas.SetActive(false);
 
             // Re-lock the cursor
-            var inputs = FindObjectOfType<StarterAssetsInputs>();
+            var inputs = FindFirstObjectByType<StarterAssetsInputs>();
             if (inputs != null) {
                 inputs.cursorLocked = true;
                 Cursor.lockState = CursorLockMode.Locked;

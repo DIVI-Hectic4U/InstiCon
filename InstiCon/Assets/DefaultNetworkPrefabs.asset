@@ -19,13 +19,11 @@ MonoBehaviour:
     SourcePrefabToOverride: {fileID: 0}
     SourceHashToOverride: 0
     OverridingTargetPrefab: {fileID: 0}
-<<<<<<< HEAD
   - Override: 0
-    Prefab: {fileID: 3225870278960659839, guid: 613c3417595794b49a069eceb1d4ca96, type: 3}
+    Prefab: {fileID: 8978113749373963192, guid: 343f398cb2165f4468669b7f2a588e6e, type: 3}
     SourcePrefabToOverride: {fileID: 0}
     SourceHashToOverride: 0
     OverridingTargetPrefab: {fileID: 0}
-
   - Override: 0
     Prefab: {fileID: 5968606712781393036, guid: df73330eeb9b86841a6744d52470812a, type: 3}
     SourcePrefabToOverride: {fileID: 0}
@@ -36,16 +34,3 @@ MonoBehaviour:
     SourcePrefabToOverride: {fileID: 0}
     SourceHashToOverride: 0
     OverridingTargetPrefab: {fileID: 0}
-  - Override: 0
-    Prefab: {fileID: 8978113749373963192, guid: 343f398cb2165f4468669b7f2a588e6e, type: 3}
-    SourcePrefabToOverride: {fileID: 0}
-    SourceHashToOverride: 0
-    OverridingTargetPrefab: {fileID: 0}
-  - Override: 0
-    Prefab: {fileID: 199450112631217443, guid: 72582c8040021db4f97cdabd98178375, type: 3}
-    SourcePrefabToOverride: {fileID: 0}
-    SourceHashToOverride: 0
-    OverridingTargetPrefab: {fileID: 0}
-
-=======
->>>>>>> parent of 417c47f (Easy UI)
