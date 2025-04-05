@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c23b0d91d4f323f4faf00f9b8927bba3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Shaders/URPToonLit.shader
+  uploadId: 645705

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ea63a8768e540445825e64fafb823af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Materials/Grass Materials/DepthFadeGrass.mat
+  uploadId: 645705

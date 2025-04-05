@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7ff41f3f11ec49f4bae6b637dc14aa36
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Shaders/ASBledingTrunk.shader
+  uploadId: 645705

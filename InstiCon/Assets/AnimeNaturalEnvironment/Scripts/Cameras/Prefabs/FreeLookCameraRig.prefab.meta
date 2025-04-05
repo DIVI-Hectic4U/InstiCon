@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49a0e923d39ec3c4c8bb97699e2f2903
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Scripts/Cameras/Prefabs/FreeLookCameraRig.prefab
+  uploadId: 645705

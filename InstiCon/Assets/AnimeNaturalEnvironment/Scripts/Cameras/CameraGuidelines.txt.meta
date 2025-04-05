@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 86f4276d9602ff547968823666aa5699
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Scripts/Cameras/CameraGuidelines.txt
+  uploadId: 645705

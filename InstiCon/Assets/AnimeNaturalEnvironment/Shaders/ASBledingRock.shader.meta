@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e5e37a7dbd9f7b849ac52740c30a6d17
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Shaders/ASBledingRock.shader
+  uploadId: 645705

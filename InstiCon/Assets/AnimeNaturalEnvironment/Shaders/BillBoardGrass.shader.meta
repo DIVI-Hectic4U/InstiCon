@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aab13a62946fe504faf4c11aa7d19711
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Shaders/BillBoardGrass.shader
+  uploadId: 645705

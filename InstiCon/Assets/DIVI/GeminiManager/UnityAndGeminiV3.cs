@@ -118,7 +118,7 @@ public class UnityAndGeminiV3: MonoBehaviour
             role = "user",
             parts = new Part[]
             {
-                new Part { text = newMessage + "(in 50 words or less)" + "(give answer related to IIITDMJ else say please stick to the context)" }
+                new Part { text = newMessage + "(in 50 words or less)" + "(give answer related to IIITDMJ else say please stick to the context)"  } // add college website for 
             }
         };
 

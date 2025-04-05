@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8043115a31d7a174cb5ff607794400db
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236927
+  packageName: Anime Natural Environment
+  packageVersion: 1.02
+  assetPath: Assets/AnimeNaturalEnvironment/Shaders/ASRock.shader
+  uploadId: 645705
