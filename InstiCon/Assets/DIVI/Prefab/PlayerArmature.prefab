@@ -1040,6 +1040,7 @@ GameObject:
   - component: {fileID: 4416926081852918493}
   - component: {fileID: 4409783336156906304}
   - component: {fileID: 7395246034791653545}
+  - component: {fileID: 1946359017615331325}
   m_Layer: 8
   m_Name: PlayerArmature
   m_TagString: Player
@@ -1367,6 +1368,20 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   TransitionStateInfoList: []
   m_Animator: {fileID: 6982812146204527121}
+--- !u!114 &1946359017615331325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4416926081852918481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bb6690edc7ff134083967029eee0bdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  bannerCanvas: {fileID: 0}
 --- !u!1 &4523139366846529165
 GameObject:
   m_ObjectHideFlags: 0
