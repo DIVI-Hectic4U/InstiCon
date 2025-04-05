@@ -19,6 +19,7 @@ MonoBehaviour:
     SourcePrefabToOverride: {fileID: 0}
     SourceHashToOverride: 0
     OverridingTargetPrefab: {fileID: 0}
+<<<<<<< HEAD
   - Override: 0
     Prefab: {fileID: 3225870278960659839, guid: 613c3417595794b49a069eceb1d4ca96, type: 3}
     SourcePrefabToOverride: {fileID: 0}
@@ -46,3 +47,5 @@ MonoBehaviour:
     SourceHashToOverride: 0
     OverridingTargetPrefab: {fileID: 0}
 
+=======
+>>>>>>> parent of 417c47f (Easy UI)
